@@ -51,6 +51,8 @@ Key columns include:
 * Fee
 * Timestamp
 
+Note: The original datasets were large. Only the processed merged dataset is included for reproducibility.
+
 ---
 
 # Project Structure
